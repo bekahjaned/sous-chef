@@ -1,0 +1,244 @@
+[
+    {
+        "name": "Korean Beef",
+        "ingredients": [
+            "1 lb ground beef",
+            "sesame oil",
+            "minced garlic",
+            "minced ginger",
+            "1/4 cup brown sugar",
+            "1/4 cup soy sauce",
+            "sriracha",
+            "green onions",
+            "1 cup jasmine rice"
+        ],
+        "leftovers": false,
+        "image": "korean-beef"
+    },
+    {
+        "name": "Gnocchi Bake",
+        "ingredients": [
+            "sausages",
+            "1-2 bell peppers",
+            "500gr gnocchi"
+        ],
+        "leftovers": false,
+        "image": "gnocchi"
+    },
+    {
+        "name": "Burrito Bowls",
+        "ingredients": [
+            "~250 gr ground beef, chorizo sausages, or beyond meat",
+            "Minced garlic",
+            "1 cup corn kernels",
+            "1 tbsp mexican seasoning",
+            "2 green onions",
+            "1 cup basmatti rice",
+            "1 avocado",
+            "1 roma tomato",
+            "A few sprigs of cilantro",
+            "lime"
+        ],
+        "leftovers": false,
+        "image": "burrito-bowl"
+    },
+    {
+        "name": "Lentejas",
+        "ingredients": [
+            "250 grams lentils",
+            "200 grams meat",
+            "2-3 white potatoes",
+            "3 tablespoons red onion (about half a small onion)",
+            "2 roma tomatoes",
+            "1 tsp aji panca",
+            "2 cloves garlic",
+            "1/2 tsp cumin",
+            "1/2 tsp oregano",
+            "Salt and pepper",
+            "1 cup jasmine rice"
+        ],
+        "leftovers": true,
+        "image": "lentejas"
+    },
+    {
+        "name": "Peruvian Chicken Noodle Soup",
+        "ingredients": [
+            "2 green onions",
+            "Eggs (1 per serving)",
+            "2 Chicken breasts",
+            "2 chunks of ginger",
+            "2 carrots",
+            "2 celery stalks",
+            "400gr Spaghetti noodles",
+            "Potatoes (1 per serving)"
+        ],
+        "leftovers": true,
+        "image": "peruvian-soup"
+    },
+    {
+        "name": "Spaghetti with Meat Sauce",
+        "ingredients": [
+            "1 lb ground beef",
+            "Salt and pepper",
+            "1/2 medium onion",
+            "15 oz tomato sauce",
+            "6 oz tomato paste",
+            "1/2 tsp Italian seasoning",
+            "1 tbsp dried parsley",
+            "1 tsp garlic powder",
+            "Crushed red pepper flakes",
+            "1 tbsp Worcestershire sauce",
+            "1 tbsp sugar",
+            "1 cup water/beef broth/red wine",
+            "Spaghetti noodles"
+        ],
+        "leftovers": true,
+        "image": "spaghetti-with-meat-sauce"
+    },
+    {
+        "name": "Arroz Chaufa",
+        "ingredients": [
+            "2 cups cooked rice",
+            "frozen veggies (optional)",
+            "2 sausages( optional)",
+            "1 chicken breast",
+            "Handful of mushrooms",
+            "200 grams thick ham",
+            "3-4 eggs",
+            "Salt",
+            "Soy sauce",
+            "Oyster sauce",
+            "Sesame oil",
+            "Green onions"
+        ],
+        "leftovers": true,
+        "image": "arroz-chaufa"
+    },
+    {
+        "name": "Mexican Spiced Veggie Bowl",
+        "ingredients": [
+            "Beyond meat sausages",
+            "1 green bell pepper",
+            "Mexican seasoning",
+            "1 cup Basmati rice",
+            "2 cloves minced garlic",
+            "2 tbsp tomato sauce",
+            "1 roma tomato, diced",
+            "Frozen corn (optional)"
+        ],
+        "leftovers": false,
+        "image": "mexican-spiced-veggie-bowl"
+    },
+    {
+        "name": "Harissa Chickpea Stew",
+        "ingredients": [
+            "370ml chickpeas",
+            "2 pitas or naan",
+            "1-2 zucchini",
+            "30gr minced ginger",
+            "cilantro",
+            "1 tbsp Moroccan spice blend",
+            "1 tbsp Harissa paste (can sub sriracha)",
+            "398ml diced tomatoes",
+            "1/4 cup feta cheese",
+            "1/4 red onion"
+        ],
+        "leftovers": false,
+        "image": "harissa-chickpea-stew"
+    },
+    {
+        "name": "Chicken Scampi",
+        "ingredients": [
+            "1 lb angel hair pasta or spaghetti",
+            "2 tbsp unsalted butter",
+            "2 tbsp olive oil",
+            "1/2 lb chicken cutlets",
+            "1/2 tsp salt",
+            "i1/4 tsp pepper",
+            "big pinch of chili pepper flakes",
+            "1/2 cup dry white wine",
+            "zest and juice of one lemon",
+            "1/4 cup parsley"
+        ],
+        "leftovers": false,
+        "image": "chicken-scampi"
+    },
+    {
+        "name": "Peri-Peri Cornflake Chicken",
+        "ingredients": [
+            "1 small bottle peri-peri sauce (125 gr)",
+            "100gr plain flour",
+            "Salt and pepper",
+            "120gr crushed cornflakes",
+            "2 chicken breasts", 
+            "fries, for serving",
+            "salad, for serving"
+        ],
+        "leftovers": false,
+        "image": "peri-peri-cornflake-chicken"
+    },
+    {
+        "name": "Thai Turkey Pad Krapow",
+        "ingredients": [
+            "250 grams ground turkey",
+            "dried chili pepper flakes",
+            "lime",
+            "170 grams green beans, ",
+            "2 tbsp brown sugar",
+            "shallot",
+            "1 cup basmati rice",
+            "minced ginger",
+            "2 tbsp soy sauce",
+            "cilantro",
+            "minced garlic"
+        ],
+        "leftovers": false,
+        "image": "thai-turkey-pad-krapow"
+    },
+    {
+        "name": "Ginger Beef Stir-Fry",
+        "ingredients": [
+            "250 grams ground beef",
+            "170 grams green beans",
+            "1 bell pepper",
+            "113 grams mushrooms",
+            "2 green onions",
+            "1 tbsp minced ginger",
+            "2 tbsp hoisin sauce",
+            "2 tbsp soy sauce",
+            "1 cup rice"
+        ],
+        "leftovers": false,
+        "image": "ginger-beef-stir-fry"
+    },
+    {
+        "name": "Spring Turkey Bolognese",
+        "ingredients": [
+            "250 gr ground turkey",
+            "170 gr spaghetti noodles",
+            "basil leaves",
+            "200 gr zucchini, ",
+            "113 gr tomatoes",
+            "1 tbsp balsamic vinegar",
+            "1 tbsp minced garlic",
+            "56 gr pesto",
+            "1 tbsp Italian seasoning",
+            "1/4 cup parmesan cheese",
+            "1 tbsp unsalted butter"
+        ],
+        "leftovers": false,
+        "image": "spring-turkey-bolognese"
+    },
+    {
+        "name": "Aglio E Olio",
+        "ingredients": [
+            "200 gr pancetta",
+            "olive oil",
+            "minced garlic",
+            "crushed red pepper flakes",
+            "spaghetti noodles"
+        ],
+        "leftovers": false,
+        "image": "aglio-e-olio"
+    }
+]
